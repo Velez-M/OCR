@@ -1,0 +1,2 @@
+# Inidicador_digital
+ 
